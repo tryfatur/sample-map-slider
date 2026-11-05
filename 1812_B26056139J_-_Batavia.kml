@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>1812_B26056139J_-_Batavia</name>
+	<LookAt>
+		<longitude>106.8134538751213</longitude>
+		<latitude>-6.135787850358414</latitude>
+		<altitude>0</altitude>
+		<heading>-2.026122784778975e-05</heading>
+		<tilt>45.00241426119532</tilt>
+		<range>2600.557322518262</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>b5ffffff</color>
+	<Icon>
+		<href>//wsl.localhost/Ubuntu/home/tryfatur/batavia-slider/1812_B26056139J_-_Batavia.jpg.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>-6.125575347549901</north>
+		<south>-6.143031599483106</south>
+		<east>106.8208050769756</east>
+		<west>106.8054823137579</west>
+		<rotation>14.07563304901123</rotation>
+	</LatLonBox>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1327"></atom:link>
+</GroundOverlay>
+</kml>

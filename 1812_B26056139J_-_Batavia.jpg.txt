@@ -1,0 +1,23 @@
+================================================================================
+HISTORICAL CARTOGRAPHIC RECORD: BATAVIA
+================================================================================
+MAP TITLE       : B26056139J - Batavia.jpg
+YEAR / DATE     : 1812
+CARTOGRAPHER    : Gold, Joyce, active 1799-1823, publisher
+REPOSITORY      : Leiden University (KITLV) / Nationaal Archief / Tropenmuseum
+SHELFMARK / ID  : Dutch Colonial Map Collection
+FORMAT / SIZE   : JPG (2.95 MB)
+LOCAL FILENAME  : 1812_B26056139J_-_Batavia.jpg.jpg
+SOURCE URL      : https://commons.wikimedia.org/wiki/File:B26056139J_-_Batavia.jpg
+RIGHTS / LICENSE: CC0
+
+--------------------------------------------------------------------------------
+ACADEMIC CITATION:
+--------------------------------------------------------------------------------
+Gold, Joyce, active 1799-1823, publisher (1812). "B26056139J - Batavia.jpg". Shelfmark: Dutch Colonial Map Collection. Dutch National Repositories (KITLV/Nationaal Archief). Permanent URL: https://commons.wikimedia.org/wiki/File:B26056139J_-_Batavia.jpg
+
+--------------------------------------------------------------------------------
+CURATORIAL NOTES / MAP DESCRIPTION:
+--------------------------------------------------------------------------------
+Uncolored engraved plan of Batavia with an alpha-numeric key to the defences of the fortress and the main adminstrative buildings. Includes soundings of the shallows around the harbour. It is taken from an issue of The Naval Chronicle, February 29th 1812.
+================================================================================

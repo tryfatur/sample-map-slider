@@ -1,0 +1,23 @@
+================================================================================
+HISTORICAL CARTOGRAPHIC RECORD: BATAVIA
+================================================================================
+MAP TITLE       : Kasteel Batavia 1762.jpg
+YEAR / DATE     : 1764
+CARTOGRAPHER    : C.A. Luepken (land surveyor / mapmaker), C. van Barnekor (copied after)
+REPOSITORY      : Leiden University (KITLV) / Nationaal Archief / Tropenmuseum
+SHELFMARK / ID  : Dutch Colonial Map Collection
+FORMAT / SIZE   : JPG (0.1 MB)
+LOCAL FILENAME  : 1764_Kasteel_Batavia_1762.jpg.jpg
+SOURCE URL      : https://commons.wikimedia.org/wiki/File:Kasteel_Batavia_1762.jpg
+RIGHTS / LICENSE: Public domain
+
+--------------------------------------------------------------------------------
+ACADEMIC CITATION:
+--------------------------------------------------------------------------------
+C.A. Luepken (land surveyor / mapmaker), C. van Barnekor (copied after) (1764). "Kasteel Batavia 1762.jpg". Shelfmark: Dutch Colonial Map Collection. Dutch National Repositories (KITLV/Nationaal Archief). Permanent URL: https://commons.wikimedia.org/wiki/File:Kasteel_Batavia_1762.jpg
+
+--------------------------------------------------------------------------------
+CURATORIAL NOTES / MAP DESCRIPTION:
+--------------------------------------------------------------------------------
+Close-up of a map of Batavia in 1762, showing the castle (Dutch: Kasteel) after modifications by governor general Van Imhoff. Top of the image is south.
+================================================================================
